@@ -1,0 +1,14 @@
+{
+  "title": "Professional Experience",
+  "subtitle": "My career in the industry",
+  "hiji": {
+    "role": "Web Developer — Internship",
+    "description": "Design and development of a full-stack web application.",
+    "missions": [
+      "Design and development of a full-stack web application",
+      "Java backend with business logic management",
+      "Angular & TypeScript frontend",
+      "SQL database and Docker containerization"
+    ]
+  }
+}

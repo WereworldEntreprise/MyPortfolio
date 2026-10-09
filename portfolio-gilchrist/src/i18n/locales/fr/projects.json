@@ -1,0 +1,55 @@
+{
+  "title": "Projets",
+  "subtitle": "Une sélection de mes réalisations académiques & techniques",
+  "details": "Voir le projet",
+  "back": "Retour aux projets",
+  "repositoryUnavailable": "Dépôt GitHub non publié",
+  "filters": {
+    "all": "Tous",
+    "academic": "Académique",
+    "personal": "Personnel",
+    "internship": "Stage"
+  },
+  "items": {
+    "pharmacie": {
+      "title": "Application Mobile de Gestion de Pharmacie",
+      "type": "Projet de fin d'études",
+      "description": "Solution mobile avec authentification sécurisée et accès différencié selon le rôle (Pharmacien / Docteur).",
+      "highlights": [
+        "Architecture avec authentification sécurisée",
+        "Accès différencié par rôle (Pharmacien / Docteur)",
+        "Dashboards personnalisés pour suivi des stocks"
+      ]
+    },
+    "stage-platform": {
+      "title": "Plateforme de Recherche de Stage",
+      "type": "Projet académique — Déploiement sur GitHub",
+      "description": "Site web complet avec un moteur de recherche d'offres de stage et une base de données optimisée pour le recrutement.",
+      "highlights": [
+        "Moteur de recherche d'offres de stage",
+        "Base de données optimisée pour le recrutement",
+        "Frameworks Bootstrap (design) & PHP Slim/Twig (backend)"
+      ]
+    },
+    "game-of-life": {
+      "title": "Simulation « Jeu de la Vie » de Conway",
+      "type": "Projet académique — Déployé sur GitHub",
+      "description": "Reproduction du célèbre automate cellulaire en C++ avec implémentation des règles de survie/naissance des cellules.",
+      "highlights": [
+        "Automate cellulaire complet (règles survie/naissance)",
+        "Architecture POO rigoureuse",
+        "Affichage console et bibliothèque graphique"
+      ]
+    },
+    "station-meteo": {
+      "title": "Station Météo Connectée (IoT)",
+      "type": "Projet académique",
+      "description": "Microcontrôleur Arduino pour la lecture et le traitement de données issues de capteurs (température, humidité).",
+      "highlights": [
+        "Microcontrôleur pour lecture capteurs (température, humidité)",
+        "Gestion des flux de données en temps réel",
+        "Affichage des résultats"
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "greeting": "Bonjour, je suis",
+  "name": "Houvi Gilchrist",
+  "tagline": "Étudiant en cycle ingénieur, en formation pour devenir Ingénieur en Informatique Industrielle",
+  "subtitle": "C / C++ · Python · Java · MySQL · Automatisation",
+  "location": "Reims, France",
+  "available": "Disponible en Octobre 2026",
+  "roles": {
+    "title": "Ingénieur Informatique Industrielle",
+    "typewriter": [
+      "Ingénieur Informatique Industrielle",
+      "Développeur Full-Stack",
+      "Passionné d'IA & Data Science",
+      "Futur Ingénieur en Informatique Industrielle"
+    ]
+  },
+  "stats": {
+    "projects": "Projets réalisés",
+    "technologies": "Technologies maîtrisées",
+    "experience": "Stage professionnel"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Contact",
+  "subtitle": "Discutons de votre projet ou d'une opportunité d'alternance",
+  "info": {
+    "email": "Email",
+    "phone": "Téléphone",
+    "location": "Localisation",
+    "availability": "Disponibilité"
+  },
+  "form": {
+    "name": {
+      "label": "Nom",
+      "placeholder": "Votre nom complet",
+      "required": "Le nom est obligatoire"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "votre.email@exemple.com",
+      "required": "L'email est obligatoire",
+      "invalid": "Veuillez saisir un email valide"
+    },
+    "message": {
+      "label": "Message",
+      "placeholder": "Votre message...",
+      "required": "Le message est obligatoire"
+    },
+    "success": "Message envoyé avec succès ! Je vous répondrai rapidement.",
+    "error": "Une erreur est survenue. Veuillez réessayer."
+  },
+  "socials": {
+    "title": "Retrouvez-moi sur",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  }
+}

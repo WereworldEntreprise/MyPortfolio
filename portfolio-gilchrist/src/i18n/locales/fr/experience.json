@@ -1,0 +1,14 @@
+{
+  "title": "Expérience Professionnelle",
+  "subtitle": "Mon parcours en entreprise",
+  "hiji": {
+    "role": "Développeur Web — Stage",
+    "description": "Conception et développement d'une application web full-stack.",
+    "missions": [
+      "Conception et développement d'une application web full-stack",
+      "Backend en Java avec gestion de la logique métier",
+      "Frontend en Angular & TypeScript",
+      "Base de données SQL et conteneurisation avec Docker"
+    ]
+  }
+}

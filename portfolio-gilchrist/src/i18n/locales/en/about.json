@@ -1,0 +1,59 @@
+{
+  "title": "About me",
+  "subtitle": "Discover my background and ambitions",
+  "description": "An engineering-cycle student at CESI Reims, I am training to become an Industrial IT Engineer. My background combines a solid education in computer systems engineering with a passion for automation, AI and embedded systems.",
+  "profile": "Engineering-cycle student, training to become an Industrial IT Engineer",
+  "education": {
+    "title": "Education",
+    "items": {
+      "cesi": {
+        "degree": "Engineering Degree",
+        "school": "CESI Reims",
+        "period": "2025 – 2029 (ongoing)",
+        "description": "Engineering cycle in Industrial IT."
+      },
+      "supmti": {
+        "degree": "Bachelor in Computer Systems Engineering",
+        "school": "SUP MTI",
+        "period": "2022 – 2025",
+        "location": "Morocco",
+        "description": "Degree completed."
+      },
+      "bac": {
+        "degree": "Scientific Baccalaureate",
+        "school": "",
+        "period": "2021 – 2022",
+        "description": ""
+      }
+    }
+  },
+  "ambitions": {
+    "title": "My ambitions",
+    "items": [
+      "Artificial Intelligence & Data Science",
+      "Embedded systems & IoT",
+      "Process automation",
+      "LLMs & Intelligent agents"
+    ]
+  },
+  "interests": {
+    "title": "Interests",
+    "science": {
+      "label": "Science & Robotics",
+      "description": "Active monitoring of Artificial Intelligence and autonomous systems."
+    },
+    "sport": {
+      "label": "Sports & Leisure",
+      "description": "Basketball, Rugby."
+    },
+    "curiosity": {
+      "label": "Curiosity",
+      "description": "Astronomy, Art, Travel."
+    }
+  },
+  "languages": {
+    "title": "Languages",
+    "french": "French — Fluent",
+    "english": "English — Intermediate"
+  }
+}

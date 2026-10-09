@@ -1,0 +1,55 @@
+/* ============================================================
+   FICHIER : src/index.css
+   RÔLE    : Point d'entrée unique des styles.
+             - Import TailwindCSS v4
+             - Déclaration du thème (couleurs d'accent, polices)
+             - Variants dark mode via la classe `.dark`
+   NOTE    : TailwindCSS v4 centralise la config ici via @theme.
+   ============================================================ */
+
+/* Import principal de TailwindCSS v4 */
+@import 'tailwindcss';
+
+/* Activation du dark mode piloté par la classe `.dark` sur <html> */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Thème */
+@theme {
+  /* Couleur d'accent principale (violet électrique) */
+  --color-accent: #7c3aed;
+  --color-accent-light: #a78bfa;
+  --color-accent-dark: #5b21b6;
+
+  /* Dégradés */
+  --color-gradient-start: #7c3aed;
+  --color-gradient-end: #06b6d4;
+
+  /* Police d'écriture */
+  --font-sans: 'Inter', system-ui, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, Consolas, monospace;
+}
+
+/* Styles globaux */
+html {
+  scroll-behavior: smooth;           /* Smooth scroll natif */
+  scroll-padding-top: 5rem;          /* Décale les ancres sous la navbar fixe */
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Masque la scrollbar de manière élégante (optionnel) */
+body::-webkit-scrollbar {
+  width: 8px;
+}
+body::-webkit-scrollbar-track {
+  background: transparent;
+}
+body::-webkit-scrollbar-thumb {
+  background: var(--color-accent);
+  border-radius: 9999px;
+}

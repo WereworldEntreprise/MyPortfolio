@@ -1,0 +1,15 @@
+{
+  "title": "Skills",
+  "subtitle": "Technologies & tools I master",
+  "superCategories": {
+    "languages": "Languages",
+    "frameworks-tools": "Frameworks & Tools"
+  },
+  "categories": {
+    "web": "Web",
+    "data-it": "Data & System",
+    "framework": "Frontend Frameworks",
+    "data-bi": "Data & Business Intelligence",
+    "devops": "DevOps & Tools"
+  }
+}

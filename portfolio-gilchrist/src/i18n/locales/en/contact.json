@@ -1,0 +1,35 @@
+{
+  "title": "Contact",
+  "subtitle": "Let's discuss your project or an apprenticeship opportunity",
+  "info": {
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "availability": "Availability"
+  },
+  "form": {
+    "name": {
+      "label": "Name",
+      "placeholder": "Your full name",
+      "required": "Name is required"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "your.email@example.com",
+      "required": "Email is required",
+      "invalid": "Please enter a valid email"
+    },
+    "message": {
+      "label": "Message",
+      "placeholder": "Your message...",
+      "required": "Message is required"
+    },
+    "success": "Message sent successfully! I will reply shortly.",
+    "error": "An error occurred. Please try again."
+  },
+  "socials": {
+    "title": "Find me on",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  }
+}

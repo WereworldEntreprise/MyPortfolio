@@ -1,0 +1,35 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "contact": "Contact",
+    "menu": "Menu",
+    "home": "Home"
+  },
+  "buttons": {
+    "downloadCv": "Download my CV",
+    "viewProjects": "View my projects",
+    "contactMe": "Contact me",
+    "sendMessage": "Send message",
+    "viewOnGithub": "View on GitHub",
+    "viewLive": "View live",
+    "backToTop": "Back to top",
+    "getInTouch": "Get in touch"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "builtWith": "Built with React, TypeScript & TailwindCSS",
+    "tagline": "Future Industrial IT Engineer"
+  },
+  "theme": {
+    "light": "Light mode",
+    "dark": "Dark mode"
+  },
+  "language": {
+    "label": "Language",
+    "fr": "FR",
+    "en": "EN"
+  }
+}

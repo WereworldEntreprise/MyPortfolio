@@ -1,0 +1,35 @@
+{
+  "nav": {
+    "about": "À propos",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "experience": "Expérience",
+    "contact": "Contact",
+    "menu": "Menu",
+    "home": "Accueil"
+  },
+  "buttons": {
+    "downloadCv": "Télécharger mon CV",
+    "viewProjects": "Voir mes projets",
+    "contactMe": "Me contacter",
+    "sendMessage": "Envoyer le message",
+    "viewOnGithub": "Voir sur GitHub",
+    "viewLive": "Voir le site",
+    "backToTop": "Haut de page",
+    "getInTouch": "Me contacter"
+  },
+  "footer": {
+    "rights": "Tous droits réservés.",
+    "builtWith": "Conçu avec React, TypeScript & TailwindCSS",
+    "tagline": "Futur Ingénieur en Informatique Industrielle"
+  },
+  "theme": {
+    "light": "Mode clair",
+    "dark": "Mode sombre"
+  },
+  "language": {
+    "label": "Langue",
+    "fr": "FR",
+    "en": "EN"
+  }
+}

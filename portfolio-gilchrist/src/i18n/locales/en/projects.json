@@ -1,0 +1,55 @@
+{
+  "title": "Projects",
+  "subtitle": "A selection of my academic & technical work",
+  "details": "View project",
+  "back": "Back to projects",
+  "repositoryUnavailable": "GitHub repository not published",
+  "filters": {
+    "all": "All",
+    "academic": "Academic",
+    "personal": "Personal",
+    "internship": "Internship"
+  },
+  "items": {
+    "pharmacie": {
+      "title": "Pharmacy Management Mobile App",
+      "type": "Final-year project",
+      "description": "Mobile solution with secure authentication and role-based access (Pharmacist / Doctor).",
+      "highlights": [
+        "Architecture with secure authentication",
+        "Role-based access (Pharmacist / Doctor)",
+        "Custom dashboards for stock tracking"
+      ]
+    },
+    "stage-platform": {
+      "title": "Internship Search Platform",
+      "type": "Academic project — Deployed on GitHub",
+      "description": "Complete website with an internship offer search engine and a database optimized for recruitment.",
+      "highlights": [
+        "Internship offer search engine",
+        "Database optimized for recruitment",
+        "Bootstrap (design) & PHP Slim/Twig (backend) frameworks"
+      ]
+    },
+    "game-of-life": {
+      "title": "Conway's \"Game of Life\" Simulation",
+      "type": "Academic project — Deployed on GitHub",
+      "description": "Reproduction of the famous cellular automaton in C++ with implementation of cell survival/birth rules.",
+      "highlights": [
+        "Complete cellular automaton (survival/birth rules)",
+        "Rigorous OOP architecture",
+        "Console output and graphics library"
+      ]
+    },
+    "station-meteo": {
+      "title": "Connected Weather Station (IoT)",
+      "type": "Academic project",
+      "description": "Arduino microcontroller for reading and processing sensor data (temperature, humidity).",
+      "highlights": [
+        "Microcontroller for sensor reading (temperature, humidity)",
+        "Real-time data flow management",
+        "Results display"
+      ]
+    }
+  }
+}

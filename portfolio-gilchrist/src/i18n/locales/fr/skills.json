@@ -1,0 +1,15 @@
+{
+  "title": "Compétences",
+  "subtitle": "Technologies & outils que je maîtrise",
+  "superCategories": {
+    "languages": "Langages",
+    "frameworks-tools": "Frameworks & Outils"
+  },
+  "categories": {
+    "web": "Web",
+    "data-it": "Data & Système",
+    "framework": "Frameworks Frontend",
+    "data-bi": "Data & Business Intelligence",
+    "devops": "DevOps & Outils"
+  }
+}

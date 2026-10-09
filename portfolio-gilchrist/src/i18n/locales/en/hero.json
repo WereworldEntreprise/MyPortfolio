@@ -1,0 +1,22 @@
+{
+  "greeting": "Hello, I'm",
+  "name": "Houvi Gilchrist",
+  "tagline": "Engineering-cycle student, training to become an Industrial IT Engineer",
+  "subtitle": "C / C++ · Python · Java · MySQL · Automation",
+  "location": "Reims, France",
+  "available": "Available October 2026",
+  "roles": {
+    "title": "Industrial IT Engineer",
+    "typewriter": [
+      "Industrial IT Engineer",
+      "Full-Stack Developer",
+      "Passionate about AI & Data Science",
+      "Future Industrial IT Engineer"
+    ]
+  },
+  "stats": {
+    "projects": "Projects completed",
+    "technologies": "Technologies mastered",
+    "experience": "Professional internship"
+  }
+}

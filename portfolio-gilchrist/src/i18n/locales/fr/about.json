@@ -1,0 +1,59 @@
+{
+  "title": "À propos de moi",
+  "subtitle": "Découvrez mon parcours et mes ambitions",
+  "description": "Étudiant en cycle ingénieur au CESI de Reims, je me forme pour devenir Ingénieur en Informatique Industrielle. Mon parcours allie une solide formation en ingénierie des systèmes informatiques et une passion pour l'automatisation, l'IA et les systèmes embarqués.",
+  "profile": "Étudiant en cycle ingénieur, en formation pour devenir Ingénieur en Informatique Industrielle",
+  "education": {
+    "title": "Formation",
+    "items": {
+      "cesi": {
+        "degree": "Diplôme d'Ingénieur",
+        "school": "CESI Reims",
+        "period": "2025 – 2029 (en cours)",
+        "description": "Cycle ingénieur en Informatique Industrielle."
+      },
+      "supmti": {
+        "degree": "Licence en Ingénierie des Systèmes Informatiques",
+        "school": "SUP MTI",
+        "period": "2022 – 2025",
+        "location": "Maroc",
+        "description": "Titulaire de la Licence."
+      },
+      "bac": {
+        "degree": "Baccalauréat Scientifique",
+        "school": "",
+        "period": "2021 – 2022",
+        "description": ""
+      }
+    }
+  },
+  "ambitions": {
+    "title": "Mes ambitions",
+    "items": [
+      "Intelligence Artificielle & Data Science",
+      "Systèmes embarqués & IoT",
+      "Automatisation de processus",
+      "LLM & Agents intelligents"
+    ]
+  },
+  "interests": {
+    "title": "Centres d'intérêt",
+    "science": {
+      "label": "Sciences & Robotique",
+      "description": "Veille active sur l'Intelligence Artificielle et les systèmes autonomes."
+    },
+    "sport": {
+      "label": "Sport & Loisirs",
+      "description": "Basketball, Rugby."
+    },
+    "curiosity": {
+      "label": "Curiosité",
+      "description": "Astronomie, Art, Voyages."
+    }
+  },
+  "languages": {
+    "title": "Langues",
+    "french": "Français — Courant",
+    "english": "Anglais — Intermédiaire"
+  }
+}

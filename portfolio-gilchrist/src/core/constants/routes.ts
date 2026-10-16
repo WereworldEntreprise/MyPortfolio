@@ -13,10 +13,9 @@ export interface NavLink {
  * Liste des liens de navigation principaux (one-page scroll).
  */
 export const NAV_LINKS: readonly NavLink[] = [
-  { id: 'about',      labelKey: 'common:nav.about' },
-  { id: 'skills',     labelKey: 'common:nav.skills' },
-  { id: 'projects',   labelKey: 'common:nav.projects' },
   { id: 'experience', labelKey: 'common:nav.experience' },
+  { id: 'projects',   labelKey: 'common:nav.projects' },
+  { id: 'skills',     labelKey: 'common:nav.skills' },
   { id: 'contact',    labelKey: 'common:nav.contact' },
 ] as const
 
